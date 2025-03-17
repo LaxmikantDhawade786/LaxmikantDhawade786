@@ -15,5 +15,7 @@
 🎶 **Hobby:** I’m a passionate flautist and love playing the flute in my free time!  
 
 🔒 **Always Learning, Always Protecting.**  
+<br>
+<br>
 
 ![Cybersecurity GIF](https://media1.tenor.com/m/-SV9TjUGabMAAAAC/hacker-python.gif)
