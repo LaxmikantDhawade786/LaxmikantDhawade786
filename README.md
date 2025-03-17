@@ -16,6 +16,7 @@
 
 🔒 **Always Learning, Always Protecting.**  
 <br>
+<hr>
 <br>
 
 ![Cybersecurity GIF](https://media1.tenor.com/m/-SV9TjUGabMAAAAC/hacker-python.gif)
