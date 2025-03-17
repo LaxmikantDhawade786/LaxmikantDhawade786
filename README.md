@@ -23,8 +23,9 @@
 <br>
 <br>
 
+## 🌐 Socials:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laxmikant-dhawade)  
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/LaxmikantD786?s=09)  
 
-### 🛡️ TryHackMe Badge:  
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2600097" style='border:none;'></iframe>  
+## 🛡️ TryHackMe Profile:  
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Laxmikant786.png)](https://tryhackme.com/p/Laxmikant786) 
