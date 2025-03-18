@@ -44,3 +44,9 @@
 ![Hydra](https://img.shields.io/badge/Hydra-%23FF8C00.svg?style=for-the-badge)
 ![Nmap](https://img.shields.io/badge/Nmap-%230081CB.svg?style=for-the-badge&logo=nmap&logoColor=white)
 
+## 📊 GitHub Stats:  
+
+[![Laxmikant Dhawade's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LaxmikantD786&show_icons=true&theme=radical&hide_border=false&count_private=true)](https://github.com/LaxmikantD786)  
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LaxmikantD786&layout=compact&theme=radical&hide_border=false)](https://github.com/LaxmikantD786)
+
