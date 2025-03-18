@@ -23,9 +23,24 @@
 <br>
 <br>
 
-## 🌐 Socials:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laxmikant-dhawade)  
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/LaxmikantD786?s=09)  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laxmikant-dhawade)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/LaxmikantD786?s=09)
 
-## 🛡️ TryHackMe Profile:  
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Laxmikant786.png)](https://tryhackme.com/p/Laxmikant786) 
+## 💻 Tech Stack:
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23557788.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FF5722.svg?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-%23167BAC.svg?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-%230077B5.svg?style=for-the-badge&logo=metasploit&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_The_Ripper-%23A8B9CC.svg?style=for-the-badge)
+![Hydra](https://img.shields.io/badge/Hydra-%23FF8C00.svg?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-%230081CB.svg?style=for-the-badge&logo=nmap&logoColor=white)
+
