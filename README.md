@@ -46,7 +46,7 @@
 
 ## 📊 GitHub Stats:  
 
-[![Laxmikant Dhawade's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LaxmikantD786&show_icons=true&theme=radical&hide_border=false&count_private=true)](https://github.com/LaxmikantD786)  
+[![Laxmikant Dhawade's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LaxmikantDhawade786&show_icons=true&theme=radical&hide_border=false&count_private=true)](https://github.com/LaxmikantDhawade786)  
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LaxmikantD786&layout=compact&theme=radical&hide_border=false)](https://github.com/LaxmikantD786)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LaxmikantDhawade786&layout=compact&theme=radical&hide_border=false)](https://github.com/LaxmikantDhawade786)
 
